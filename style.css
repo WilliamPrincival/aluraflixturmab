@@ -1,4 +1,9 @@
 body{
     color: blue;
-    background-color: blanchedalmond;
+    background-color: blanchedalmond (6, 14, 158);
+    font-family: sans-serif;
+}
+
+header{
+    background-color: blueviolet;
 }
