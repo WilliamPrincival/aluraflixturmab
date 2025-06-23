@@ -3,8 +3,14 @@ body{
     color: black;
     background-color:wheat;
     font-family: "Noto Sans" sans-serif;
+    margin: 0px;
 }
 
 header{
+    border-bottom: solid 4px red;
+    padding: 40px;
     background-color: rgb(231, 222, 222);
+}
+h1 {
+    
 }
