@@ -37,7 +37,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 15px;
 }
 
 .categoria {
@@ -53,7 +53,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid rgb(182, 45, 216);
 }
 
 .categoria h2 {
